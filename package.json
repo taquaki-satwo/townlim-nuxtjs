@@ -1,0 +1,11 @@
+{
+  "name": "townlim-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:taquaki-satwo/townlim-nuxtjs.git",
+  "author": "Takaaki Sato <taquaki-satwo@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vue-cli": "^2.9.3"
+  }
+}
